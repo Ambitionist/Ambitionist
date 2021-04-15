@@ -8,6 +8,7 @@
   <a href="https://discord.gg/mkxEjCWMXx" TARGET="_blank"><img src="https://img.shields.io/badge/Contact%20me%20-on%20Discord-blueviolet"  hspace="12" alt="Contact"></a>
   <a href="https://twitter.com/qc_felix" TARGET="_blank"><img src="https://img.shields.io/badge/Contact%20me%20-on%20Twitter-blue"  hspace="12" alt="Contact"></a>
   <a href="mailto:contact.ambitionist@protonmail.ch"><img src="https://img.shields.io/badge/Contact%20me%20-on%20Email-ff69b4" hspace="12" alt="Contact"></a>
+  <a href="https://komarev.com/ghpvc/?username=Ambitionist" TARGET="_blank"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Ambitionist" hspace="9" alt="contact">
 </p>
 
 <hr>
